@@ -1,0 +1,3 @@
+p=int(input("enter a num"))
+q=int(input("enter a num"))
+print(p*q)
