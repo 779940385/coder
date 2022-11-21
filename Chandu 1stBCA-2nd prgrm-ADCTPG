@@ -1,0 +1,6 @@
+p=int(input("enter a num"))
+q=int(input("enter a num"))
+if p>q:
+    print(p-q)
+else:
+    print(q-p)
