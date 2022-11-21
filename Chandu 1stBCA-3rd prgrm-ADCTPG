@@ -1,0 +1,4 @@
+p=int(input("enter a num"))
+q=int(input("enter a num"))
+print("{0}/{1}={2}".format(p,q,p/q))
+print("{0}/{1}={2}".format(q,p,q/p))
